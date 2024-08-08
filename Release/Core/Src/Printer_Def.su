@@ -1,0 +1,3 @@
+../Core/Src/Printer_Def.c:3:6:New_line	8	static
+../Core/Src/Printer_Def.c:9:6:Heading	16	static
+../Core/Src/Printer_Def.c:15:6:string	8	static
